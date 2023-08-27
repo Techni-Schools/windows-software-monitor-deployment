@@ -1,0 +1,7 @@
+pycharm-edu
+intellijidea-community
+steam-client
+leagueoflegendseuw
+leagueoflegends
+leagueoflegendseune
+epicgameslauncher
