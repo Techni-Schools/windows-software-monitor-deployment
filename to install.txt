@@ -1,4 +1,3 @@
-sql-server-express
 firefox
 opera-gx
 googlechrome
@@ -30,8 +29,6 @@ wsl-ubuntu-2004
 docker-desktop
 notepadplusplus
 npppluginmanager
-sql-server-2019
-sql-server-management-studio
 xampp-81
 7zip
 bandizip
