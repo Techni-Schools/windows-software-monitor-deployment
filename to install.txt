@@ -40,5 +40,5 @@ gimp
 winrar
 unity-hub
 unity
-keepassxs
+keepassxc
 openvpn
