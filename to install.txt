@@ -1,4 +1,3 @@
-sql-server-express
 firefox
 opera-gx
 googlechrome
@@ -41,3 +40,4 @@ gimp
 winrar
 unity-hub
 unity
+keepass
