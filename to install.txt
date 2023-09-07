@@ -40,4 +40,4 @@ gimp
 winrar
 unity-hub
 unity
-keepass
+keepassxs
