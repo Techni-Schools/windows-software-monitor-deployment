@@ -11,7 +11,6 @@ oraclejdk
 jdk8
 javaruntime
 virtualbox
-virtualbox-guest-additions-guest.install
 vscode
 vscode-react-native
 visualstudio2022community
