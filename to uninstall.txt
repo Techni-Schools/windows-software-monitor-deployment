@@ -6,3 +6,5 @@ leagueoflegends
 leagueoflegendseune
 epicgameslauncher
 keepass
+virtualbox-guest-additions-guest.install
+
