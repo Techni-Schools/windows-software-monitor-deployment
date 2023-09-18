@@ -41,4 +41,5 @@ winrar
 unity-hub
 unity
 keepassxc
-openvpn
+openvpn-connect
+
