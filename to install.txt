@@ -42,3 +42,5 @@ unity-hub
 unity
 keepassxc
 openvpn-connect
+blender
+
