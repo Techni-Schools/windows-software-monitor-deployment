@@ -3,7 +3,6 @@ opera-gx
 googlechrome
 googledrive
 python
-blender
 mingw
 gcc-arm-embedded
 powershell-core
@@ -43,3 +42,4 @@ unity-hub
 unity
 keepassxc
 openvpn-connect
+blender
