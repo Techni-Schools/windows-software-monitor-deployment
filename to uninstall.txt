@@ -1,4 +1,3 @@
-blender
 pycharm-edu
 intellijidea-community
 steam-client
