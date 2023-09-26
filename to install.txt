@@ -39,7 +39,6 @@ brackets
 gimp
 winrar
 unity-hub
-unity
 keepassxc
 openvpn-connect
 blender
