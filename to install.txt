@@ -42,3 +42,4 @@ unity-hub
 keepassxc
 openvpn-connect
 blender
+microsoft-teams
