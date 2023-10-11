@@ -43,3 +43,5 @@ unity
 keepassxc
 openvpn-connect
 blender
+microsoft-teams
+office365business
