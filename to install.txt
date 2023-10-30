@@ -38,3 +38,10 @@ openvpn-connect
 blender
 microsoft-teams
 office365business
+unity
+virtualbox
+virtualbox-guest-additions-guest.install
+intellijidea-ultimate
+pycharm
+phpstorm
+webstorm
