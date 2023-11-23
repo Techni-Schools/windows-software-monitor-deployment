@@ -7,4 +7,5 @@ leagueoflegendseune
 epicgameslauncher
 keepass
 openvpn
+virtualbox-guest-additions-guest.install
 
