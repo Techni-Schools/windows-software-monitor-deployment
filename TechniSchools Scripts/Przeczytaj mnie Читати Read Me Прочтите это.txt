@@ -12,5 +12,13 @@ TechniSchools_nmap_installation - konfiguracja NMap'a
 Skrypty zabespieczeń:
 TechniSchools_Firetower_security - skrypt o właściwościach firewalla ale również niepozwalajacy na dzialanie określonych aplikacji
 Technischools_disabler_BitLocker_security - wyłaczenie funkcji Bitlocker
+TechniSchools_system_healer_security -automatyczne skanowanie PC w poszukiwaniu błedów systemowych 
+
+TechniSchools_Configure_All_Local_user_accounts - konfiguracja kont utworzonych lokalnie
+TechniSchools_configure_domain_accounts_on_pc - konfiguracja kont stworzonych w domenie
+TechniSchools_logoff_domain_Admins_security -skrypt nie pozwalający zalogowac sie kontu domenowemu na komputerze - nie mylic z uwierzytelnieniem 
+
+
+
 
 
