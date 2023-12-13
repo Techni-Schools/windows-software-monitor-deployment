@@ -1,0 +1,16 @@
+Objaśnienie zadań skryptów
+
+Must Be !!!
+TechniSchools_updater - skrypt update;ujacy skrypty do nowszej wersji
+TechniSchools_Task_Cleaner - skrypt usuwający stare wersje tuz po zalowaniu użytkownika
+TechniSchools_package_manager_installer - skrypt umożliwiający zdalna instalacje oprogramowania z wykorzystaniem managera "Chocolatey"
+
+Skryptu przeprowadzające automatyczna konfiguracje programów:
+TechniSchools_Docker_configure_before_1st_run - konfiguracja Docker'a
+TechniSchools_nmap_installation - konfiguracja NMap'a
+
+Skrypty zabespieczeń:
+TechniSchools_Firetower_security - skrypt o właściwościach firewalla ale również niepozwalajacy na dzialanie określonych aplikacji
+Technischools_disabler_BitLocker_security - wyłaczenie funkcji Bitlocker
+
+
