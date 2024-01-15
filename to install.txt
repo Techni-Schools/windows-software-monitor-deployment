@@ -45,3 +45,4 @@ blender
 microsoft-teams
 office365business
 zap
+openjdk
