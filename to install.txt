@@ -47,3 +47,4 @@ office365business
 zap
 openjdk
 dotnet
+tor-browser
