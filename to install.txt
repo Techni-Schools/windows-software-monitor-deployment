@@ -28,7 +28,6 @@ wsl-ubuntu-2004
 docker-desktop
 notepadplusplus
 npppluginmanager
-sql-server-express
 sql-server-2019
 sql-server-management-studio
 xampp-81
@@ -40,3 +39,12 @@ gimp
 winrar
 unity-hub
 unity
+keepassxc
+openvpn-connect
+blender
+microsoft-teams
+office365business
+zap
+openjdk
+dotnet
+tor-browser
