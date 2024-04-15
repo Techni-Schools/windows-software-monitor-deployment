@@ -40,7 +40,7 @@ winrar
 unity-hub
 unity
 keepassxc
-openvpn-connect
+openvpn
 blender
 microsoft-teams
 office365business
