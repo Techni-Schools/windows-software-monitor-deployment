@@ -6,5 +6,5 @@ leagueoflegends
 leagueoflegendseune
 epicgameslauncher
 keepass
-openvpn
+openvpn-connect
 virtualbox-guest-additions-guest.install
