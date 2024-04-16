@@ -26,6 +26,7 @@ webstorm
 wsl2
 wsl-ubuntu-2004
 docker-desktop
+docker-compose
 notepadplusplus
 npppluginmanager
 sql-server-2019
