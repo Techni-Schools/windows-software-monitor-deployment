@@ -49,3 +49,6 @@ zap
 openjdk
 dotnet
 tor-browser
+visualstudio2019-workload-nativedesktop
+mongodb-compass
+clion-ide
