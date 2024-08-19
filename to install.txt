@@ -18,6 +18,8 @@ intellijidea-ultimate
 git
 github-desktop
 dotnet-6.0-sdk
+sql-server-express
+sql-server-management-studio
 nodejs
 pycharm
 php
