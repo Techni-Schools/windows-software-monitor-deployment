@@ -18,8 +18,6 @@ intellijidea-ultimate
 git
 github-desktop
 dotnet-6.0-sdk
-sql-server-management-studio
-sql-server-express
 nodejs
 pycharm
 php
@@ -31,8 +29,6 @@ docker-desktop
 docker-compose
 notepadplusplus
 npppluginmanager
-sql-server-2019
-sql-server-management-studio
 xampp-81
 7zip
 bandizip
