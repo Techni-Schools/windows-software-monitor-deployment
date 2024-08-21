@@ -32,7 +32,7 @@ npppluginmanager
 xampp-81
 7zip
 bandizip
-sublimetext3.app
+sublimetext3
 brackets
 gimp
 winrar
