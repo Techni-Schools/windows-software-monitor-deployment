@@ -1,6 +1,7 @@
 unity
 intellijidea-ultimate
 pycharm
+pycharm-community
 phpstorm
 webstorm
 sql-server-express
