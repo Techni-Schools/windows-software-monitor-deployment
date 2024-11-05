@@ -51,4 +51,5 @@ visualstudio2019-workload-nativedesktop
 mongodb-compass
 clion-ide
 androidstudio
+android-sdk
 flutter
