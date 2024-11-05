@@ -54,4 +54,3 @@ sourcetree
 pycharm-community
 androidstudio
 android-sdk
-flutter
