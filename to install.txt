@@ -52,3 +52,5 @@ mongodb-compass
 clion-ide
 sourcetree
 pycharm-community
+androidstudio
+flutter
