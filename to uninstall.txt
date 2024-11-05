@@ -8,3 +8,4 @@ epicgameslauncher
 keepass
 openvpn-connect
 virtualbox-guest-additions-guest.install
+flutter
