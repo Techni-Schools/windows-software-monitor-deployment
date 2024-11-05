@@ -53,4 +53,5 @@ clion-ide
 sourcetree
 pycharm-community
 androidstudio
+android-sdk
 flutter
