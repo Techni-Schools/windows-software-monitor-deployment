@@ -3,6 +3,4 @@ intellijidea-ultimate
 pycharm
 phpstorm
 webstorm
-sql-server-express
-sql-server-management-studio
 nmap
