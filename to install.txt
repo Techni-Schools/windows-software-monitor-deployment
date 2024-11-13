@@ -52,3 +52,4 @@ mongodb-compass
 clion-ide
 androidstudio
 android-sdk
+flutter
