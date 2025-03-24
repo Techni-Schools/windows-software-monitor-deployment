@@ -19,6 +19,8 @@ sublimetext3
 brackets
 zap
 sourcetree
+mongodb
+mongodb-compass
 pycharm-community
 vscode-prettier
 vscode-csharp
