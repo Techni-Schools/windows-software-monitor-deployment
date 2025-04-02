@@ -28,3 +28,4 @@ vscode-powershell
 vscode-python
 vscode-java
 vscode-react-native
+python --version=3.10.0
