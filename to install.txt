@@ -1,31 +1,31 @@
-firefox
-opera-gx
-googlechrome
-python
-openjdk
-oraclejdk
-jdk8
-javaruntime
-virtualbox
-vscode
-git
-github-desktop
-notepadplusplus
-npppluginmanager
-xampp-81
-7zip
-bandizip
-sublimetext3
-brackets
-zap
-sourcetree
-mongodb
-mongodb-compass
-pycharm-community
-vscode-prettier
-vscode-csharp
-vscode-powershell
-vscode-python
-vscode-java
-vscode-react-native
-python --version=3.10.0
+firefox -f
+opera-gx -f
+googlechrome -f
+python -f
+openjdk -f
+oraclejdk -f
+jdk8 -f
+javaruntime -f
+virtualbox -f
+vscode -f
+git -f
+github-desktop -f
+notepadplusplus -f
+npppluginmanager -f
+xampp-81 -f
+7zip -f
+bandizip -f
+sublimetext3 -f
+brackets -f
+zap -f
+sourcetree -f
+mongodb -f
+mongodb-compass -f
+pycharm-community -f 
+vscode-prettier -f
+vscode-csharp -f
+vscode-powershell -f
+vscode-python -f
+vscode-java -f
+vscode-react-native -f 
+python --version=3.10.0 -f
