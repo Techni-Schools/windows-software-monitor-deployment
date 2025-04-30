@@ -7,3 +7,4 @@ webstorm
 clion-ide
 nmap
 datagrip
+vscode
