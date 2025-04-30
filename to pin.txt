@@ -7,3 +7,4 @@ clion-ide
 sql-server-express
 sql-server-management-studio
 nmap
+vscode
