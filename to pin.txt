@@ -5,3 +5,4 @@ phpstorm
 webstorm
 clion-ide
 nmap
+vscode
