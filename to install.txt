@@ -52,4 +52,5 @@ mongodb-compass
 clion-ide
 androidstudio
 android-sdk
-flutter
+sql-server-2019
+sql-server-management-studio
