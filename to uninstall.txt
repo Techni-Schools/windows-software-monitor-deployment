@@ -8,5 +8,4 @@ epicgameslauncher
 keepass
 openvpn-connect
 virtualbox-guest-additions-guest.install
-sql-server-express
-sql-server-management-studio
+
