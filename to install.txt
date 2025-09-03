@@ -29,6 +29,7 @@ docker-desktop
 docker-compose
 notepadplusplus
 npppluginmanager
+sql-server-express
 sql-server-2019
 sql-server-management-studio
 xampp-81
