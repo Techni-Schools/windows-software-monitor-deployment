@@ -52,5 +52,5 @@ mongodb-compass
 clion-ide
 androidstudio
 android-sdk
-sql-server-2019
+sql-server-express
 sql-server-management-studio

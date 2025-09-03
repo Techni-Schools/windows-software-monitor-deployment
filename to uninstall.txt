@@ -9,4 +9,5 @@ keepass
 openvpn-connect
 virtualbox-guest-additions-guest.install
 flutter
+sql-server-2019
 
