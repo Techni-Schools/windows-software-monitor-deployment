@@ -6,3 +6,4 @@ webstorm
 clion-ide
 nmap
 vscode
+sql-server-express
