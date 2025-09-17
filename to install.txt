@@ -50,3 +50,4 @@ tor-browser
 visualstudio2019-workload-nativedesktop
 mongodb-compass
 clion-ide
+sql-server-management-studio

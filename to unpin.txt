@@ -1,2 +1,3 @@
 virtualbox
 virtualbox-guest-additions-guest.install
+sql-server-management-studio
