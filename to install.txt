@@ -43,8 +43,8 @@ openvpn
 blender
 microsoft-teams
 office365business
-zap
 openjdk
+zap
 dotnet
 tor-browser
 visualstudio2019-workload-nativedesktop
@@ -54,3 +54,4 @@ androidstudio
 android-sdk
 sql-server-express
 sql-server-management-studio
+postgresql
