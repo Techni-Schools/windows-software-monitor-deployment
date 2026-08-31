@@ -4,6 +4,5 @@ pycharm
 phpstorm
 webstorm
 clion-ide
-sql-server-express
 nmap
 vscode
